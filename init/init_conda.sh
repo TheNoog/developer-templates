@@ -75,6 +75,6 @@ source ~/.bashrc
 
 # venv setup
 pip3 install virtualenv
-# python3 -m venv /home/noog/python3.11
+# python3 -m venv ~/python3.11
 # python3.11 -m pip install --upgrade pip
 # To run in venv 
